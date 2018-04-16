@@ -1,4 +1,4 @@
-# vue-muke
+# vue-jiazhang
 一个基于vue全家桶开发的仿家长慕课单页应用
 项目github地址:https://github.com/qzmly100/vue-jiazhang
 
